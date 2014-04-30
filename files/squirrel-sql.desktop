@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/opt/squirrel/current/icons/acorn.png
+Name[en_US]=SquirrelSQL
+Exec=/opt/squirrel/current/squirrel-sql.sh
+Name=SquirrelSQL
+Icon=/opt/squirrel/current/icons/acorn.png
