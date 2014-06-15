@@ -5,7 +5,6 @@ class javatools::apache_maven {
 		target 	=> '/opt/apache-maven',
 		checksum => false
 	}
-
 	file { '/opt/apache-maven/current':
 		ensure => 'link',
 		target => '/opt/apache-maven/apache-maven-3.1.1',
