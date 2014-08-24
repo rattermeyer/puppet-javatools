@@ -1,4 +1,4 @@
-name 'rat/javatools'
+name 'rattermeyer-javatools'
 version '0.1.0'
 source 'UNKNOWN'
 author 'Richard Attermeyer'
